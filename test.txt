@@ -6,3 +6,7 @@ to
 test
 github
 connection
+and
+if
+it
+works
