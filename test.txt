@@ -9,8 +9,9 @@ connection
 and
 if
 it
-works
-Make it 
+works.
+Trying to
+make it 
 works 
 better 
 for me
