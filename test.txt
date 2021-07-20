@@ -15,4 +15,3 @@ make it
 works 
 better 
 for me
-and anyone else
